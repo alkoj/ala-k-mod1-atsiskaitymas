@@ -4,7 +4,7 @@ from requests import get
 from lxml.html import fromstring
 
 # Nustatome vykdymo laiką
-time_limit = 20  # Laikas sekundėmis
+time_limit = 30  # Laikas sekundėmis
 start_time = time.time()  # Įsimename pradžios laiką
 
 # Atidarome failą įrašymui CSV formatu
