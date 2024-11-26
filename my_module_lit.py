@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import csv
-
+pass
 
 # Gautas puslapio HTML kodas
 url = 'https://www.lrytas.lt/it'
