@@ -11,13 +11,13 @@ Turinys
 - [Priklausomybės](#priklausomybės)
 - [Licencija](#licencija)
 
-Įdiegimas
+##Įdiegimas
 
 Klonuokime repo:
    ```bash
    git clone https://github.com/alkoj/ala-k-mod1-atsiskaitymas.git
 
-Naudojimas
+#Naudojimas
 
 #Parsinimas iš Gintarine
 
