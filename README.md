@@ -38,7 +38,11 @@ Duomenys yra išsaugoti faile sorted_data.csv.
 Priklausomybės
 
 Projekte naudojamos šios bibliotekos:
+
 requests — HTTP užklausoms
+
 beautifulsoup4 — HTML parsinimui
+
 lxml — HTML analizavimui naudojant XPath
+
 csv — darbui su CSV failais
