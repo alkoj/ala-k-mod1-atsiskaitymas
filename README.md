@@ -5,11 +5,11 @@ Kiekvienas skriptas išgauna skirtingus duomenis ir išsaugo juos CSV formatu.
 
 Turinys
 
-- [Įdiegimas]
-- [Naudojimas](#naudojimas)
-- [Testavimas](#testavimas)
-- [Priklausomybės](#priklausomybės)
-- [Licencija](#licencija)
+- Įdiegimas
+- Naudojimas
+- Testavimas
+- Priklausomybės
+- Licencija
 
 #įdiegimas
 
