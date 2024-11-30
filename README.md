@@ -17,7 +17,14 @@ Klonuokime repo:
    ```bash
    git clone https://github.com/alkoj/ala-k-mod1-atsiskaitymas.git
 
-#Naudojimas
+Naudojimas
+
+Parsinimas iš Gintarine
+
+Norėdami atlikti duomenų parsinimą iš Gintarine, vykdykite šį kodą:
+
+from ala_module.scraper_gintarine import scrape_products
+scrape_products(time_limit=20)
 
 #Parsinimas iš Gintarine
 
