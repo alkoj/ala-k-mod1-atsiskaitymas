@@ -14,8 +14,9 @@ Turinys
 #įdiegimas
 
 Klonuokime repo:
-   ```bash
-   git clone https://github.com/alkoj/ala-k-mod1-atsiskaitymas.git
+
+git clone https://github.com/alkoj/ala-k-mod1-atsiskaitymas.git
+
 
 Naudojimas
 
