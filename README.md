@@ -11,7 +11,7 @@ Turinys
 - [Priklausomybės](#priklausomybės)
 - [Licencija](#licencija)
 
-##Įdiegimas
+#įdiegimas
 
 Klonuokime repo:
    ```bash
