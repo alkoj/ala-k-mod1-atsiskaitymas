@@ -1,6 +1,6 @@
 Duomenų Parsinimo Projektas
 
-Šis projektas apima du skriptus duomenų parsinimui iš svetainių: vieną iš https://www.gintarine.lt ir kitą iš https://www.lrytas.lt. 
+Šis projektas apima du skriptus duomenų parsinimui iš svetainių: vieną iš [https://www.gintarine.lt](https://www.gintarine.lt/maistas-ir-papildai-sportininkams) ir kitą iš [https://www.lrytas.lt](https://www.lrytas.lt/it) .
 Kiekvienas skriptas išgauna skirtingus duomenis ir išsaugo juos CSV formatu.
 
 Turinys
