@@ -5,7 +5,7 @@ Kiekvienas skriptas išgauna skirtingus duomenis ir išsaugo juos CSV formatu.
 
 Turinys
 
-- [Įdiegimas](#įdiegimas)
+- [Įdiegimas]
 - [Naudojimas](#naudojimas)
 - [Testavimas](#testavimas)
 - [Priklausomybės](#priklausomybės)
